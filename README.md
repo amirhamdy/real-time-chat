@@ -21,7 +21,7 @@ after login agian that he has new message from sender user.
 * Create new database named chat .
 * Clone or Download the repository
 ```
-git clone https://github.com/Amgad-Atef-Mohamed/real-time-chat.git
+git clone https://github.com/amirhamdy4b/real-time-chat.git
 ```
 * Install Dependencies
 ```

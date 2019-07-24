@@ -13,7 +13,6 @@ A Real Time Chat Application built using Node.js, Express, MYSQL , Socket.io, JW
 # incomming Features:
 * - [ ] When user send message to another one and that one is offline , get get notification
 after login agian that he has new message from sender user.
-* - [ ] To be deployable with [docker](https://docker.com/). 
 
 
 > # Installation steps:

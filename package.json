@@ -14,7 +14,7 @@
     "express": "^4.15.4",
     "jsonwebtoken": "^7.4.3",
     "md5": "^2.2.1",
-    "mysql2": "^1.4.1",
+    "mysql2": "^1.7.0",
     "open": "0.0.5",
     "sequelize": "^4.7.5",
     "socket.io": "^2.0.3"
